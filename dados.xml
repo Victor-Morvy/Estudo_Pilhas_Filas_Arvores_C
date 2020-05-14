@@ -1,0 +1,104 @@
+<?xml version="1.0"?> 
+ <tabela> 
+
+    <teste id='1'>
+        <pilha_alimenta>1826</pilha_alimenta>
+        <fila_alimenta>4688</fila_alimenta>
+        <arvore_alimenta>1541</arvore_alimenta>
+        <pilha_percorre>169316</pilha_percorre>
+        <fila_percorre>219190</fila_percorre>
+        <arvore_ordem>280</arvore_ordem>
+        <arvore_preordem>276</arvore_preordem>
+        <arvore_posordem>277</arvore_posordem>
+</teste>
+    <teste id='2'>
+        <pilha_alimenta>1896</pilha_alimenta>
+        <fila_alimenta>5523</fila_alimenta>
+        <arvore_alimenta>1443</arvore_alimenta>
+        <pilha_percorre>233167</pilha_percorre>
+        <fila_percorre>211139</fila_percorre>
+        <arvore_ordem>2259</arvore_ordem>
+        <arvore_preordem>2262</arvore_preordem>
+        <arvore_posordem>2256</arvore_posordem>
+</teste>
+    <teste id='3'>
+        <pilha_alimenta>1504</pilha_alimenta>
+        <fila_alimenta>4902</fila_alimenta>
+        <arvore_alimenta>1466</arvore_alimenta>
+        <pilha_percorre>225851</pilha_percorre>
+        <fila_percorre>206021</fila_percorre>
+        <arvore_ordem>287</arvore_ordem>
+        <arvore_preordem>285</arvore_preordem>
+        <arvore_posordem>288</arvore_posordem>
+</teste>
+    <teste id='4'>
+        <pilha_alimenta>2602</pilha_alimenta>
+        <fila_alimenta>4828</fila_alimenta>
+        <arvore_alimenta>1501</arvore_alimenta>
+        <pilha_percorre>218918</pilha_percorre>
+        <fila_percorre>222956</fila_percorre>
+        <arvore_ordem>2324</arvore_ordem>
+        <arvore_preordem>2319</arvore_preordem>
+        <arvore_posordem>2316</arvore_posordem>
+</teste>
+    <teste id='5'>
+        <pilha_alimenta>1560</pilha_alimenta>
+        <fila_alimenta>4890</fila_alimenta>
+        <arvore_alimenta>1463</arvore_alimenta>
+        <pilha_percorre>228572</pilha_percorre>
+        <fila_percorre>209123</fila_percorre>
+        <arvore_ordem>287</arvore_ordem>
+        <arvore_preordem>282</arvore_preordem>
+        <arvore_posordem>282</arvore_posordem>
+</teste>
+    <teste id='6'>
+        <pilha_alimenta>1515</pilha_alimenta>
+        <fila_alimenta>4776</fila_alimenta>
+        <arvore_alimenta>1452</arvore_alimenta>
+        <pilha_percorre>208022</pilha_percorre>
+        <fila_percorre>207588</fila_percorre>
+        <arvore_ordem>2416</arvore_ordem>
+        <arvore_preordem>285</arvore_preordem>
+        <arvore_posordem>285</arvore_posordem>
+</teste>
+    <teste id='7'>
+        <pilha_alimenta>1510</pilha_alimenta>
+        <fila_alimenta>4865</fila_alimenta>
+        <arvore_alimenta>1458</arvore_alimenta>
+        <pilha_percorre>267128</pilha_percorre>
+        <fila_percorre>210699</fila_percorre>
+        <arvore_ordem>287</arvore_ordem>
+        <arvore_preordem>288</arvore_preordem>
+        <arvore_posordem>284</arvore_posordem>
+</teste>
+    <teste id='8'>
+        <pilha_alimenta>1480</pilha_alimenta>
+        <fila_alimenta>4782</fila_alimenta>
+        <arvore_alimenta>1416</arvore_alimenta>
+        <pilha_percorre>231317</pilha_percorre>
+        <fila_percorre>220482</fila_percorre>
+        <arvore_ordem>278</arvore_ordem>
+        <arvore_preordem>277</arvore_preordem>
+        <arvore_posordem>12038</arvore_posordem>
+</teste>
+    <teste id='9'>
+        <pilha_alimenta>1949</pilha_alimenta>
+        <fila_alimenta>5112</fila_alimenta>
+        <arvore_alimenta>1412</arvore_alimenta>
+        <pilha_percorre>237363</pilha_percorre>
+        <fila_percorre>203614</fila_percorre>
+        <arvore_ordem>278</arvore_ordem>
+        <arvore_preordem>277</arvore_preordem>
+        <arvore_posordem>281</arvore_posordem>
+</teste>
+    <teste id='10'>
+        <pilha_alimenta>1952</pilha_alimenta>
+        <fila_alimenta>4692</fila_alimenta>
+        <arvore_alimenta>1460</arvore_alimenta>
+        <pilha_percorre>228977</pilha_percorre>
+        <fila_percorre>217506</fila_percorre>
+        <arvore_ordem>286</arvore_ordem>
+        <arvore_preordem>285</arvore_preordem>
+        <arvore_posordem>284</arvore_posordem>
+</teste>
+    </tabela>
